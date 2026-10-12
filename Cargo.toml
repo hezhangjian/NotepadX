@@ -1,0 +1,8 @@
+[package]
+name = "notepadx"
+version = "0.0.1"
+edition = "2024"
+description = "NotepadX is a desktop text editor built with Rust."
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/hezhangjian/NotepadX"
